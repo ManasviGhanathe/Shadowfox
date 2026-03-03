@@ -19,3 +19,13 @@ Through this task, I learned:
 - Basic problem-solving skills
 
 This repository contains my completed Task 1 code.
+
+## Task 2 – Intermediate Level
+
+### 1. Web Scraper
+- Used requests and BeautifulSoup
+- Extracted book titles and prices from a practice website
+
+### 2. Hangman Game
+- Built a word guessing game
+- Implemented loops, conditions, and user input handling
